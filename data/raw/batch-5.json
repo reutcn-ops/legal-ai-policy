@@ -1,0 +1,233 @@
+[
+  {
+    "institution": "mcgill",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות ייעודית של הפקולטה למשפטים; חלה ההנחיה הכלל-אוניברסיטאית של McGill. ההחלטה אם וכיצד מותר להשתמש בבינה מלאכותית יוצרת נתונה לכל מרצה, והאוניברסיטה ממליצה בחום לכלול הצהרה על כך בסילבוס. אין ברירת מחדל: אין להניח שהשימוש מותר או אסור ללא הנחיית המרצה.",
+    "sourceTitle": "Using generative AI in teaching and learning | Teaching and Learning Knowledge Base",
+    "sourceUrl": "https://teachingkb.mcgill.ca/tlk/using-generative-ai-in-teaching-and-learning",
+    "sourceDate": null,
+    "evidence": "There should be no default assumption as to the use of generative AI tools."
+  },
+  {
+    "institution": "mcgill",
+    "sector": "admissions",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "הפקולטה למשפטים אינה מעודדת שימוש בבינה מלאכותית יוצרת בהכנת מסמכי המועמדות לתוכנית BCL/JD, וה-Personal Statement צריך להיות מקורי ואותנטי. מועמד שבוחר להשתמש בכלי כזה מתבקש לגלות זאת מרצונו במשפט קצר המציין באיזה כלי השתמש וכיצד. ההנחיה, בתוקף מ-23 באוקטובר 2026, אינה עונשית, והגילוי לא ייזקף לחובת המועמד.",
+    "sourceTitle": "Supporting Documents | Faculty of Law - McGill University",
+    "sourceUrl": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/supporting-documents",
+    "sourceDate": "2026-10-23",
+    "evidence": "If you choose to use generative AI, we ask that you disclose it voluntarily."
+  },
+  {
+    "institution": "mcgill",
+    "sector": "papers",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית של Graduate and Postdoctoral Studies לתלמידי תזה (אינה ייחודית למשפטים). לפני המחקר והכתיבה על הסטודנט לברר עם המנחה ועם המחלקה אם, כיצד ומתי מותר להשתמש ב-GenAI, ולכלול בתזה הצהרה וגילוי על השימוש. שימוש לרעה עלול להוביל להליך משמעתי לפי Code of Student Conduct.",
+    "sourceTitle": "GenAI Research Statement and Disclosure Guidelines for Theses",
+    "sourceUrl": "https://www.mcgill.ca/gps/files/gps/generative_ai_statement_for_thesis_students_may_1_2026_2.pdf",
+    "sourceDate": "2026-05-01",
+    "evidence": "any misuse of generative AI may result in disciplinary action"
+  },
+  {
+    "institution": "mcgill",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "university",
+    "summary": "ברמת האוניברסיטה (לא ייחודי למשפטים) אושרה לשימוש גרסה מאובטחת של Microsoft Copilot. לפי אותו עמוד, כלים כגון ChatGPT, Claude ו-Gemini אינם מאושרים לשימוש ב-McGill.",
+    "sourceTitle": "Using generative AI in teaching and learning | Teaching and Learning Knowledge Base",
+    "sourceUrl": "https://teachingkb.mcgill.ca/tlk/using-generative-ai-in-teaching-and-learning",
+    "sourceDate": null,
+    "evidence": "A secure version of Microsoft Copilot has been approved at McGill."
+  },
+  {
+    "institution": "queens",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית של Queen's לסטודנטים (אינה ייחודית למשפטים). הסילבוס של כל קורס קובע את כללי השימוש בבינה מלאכותית; כשהסילבוס שותק, ברירת המחדל היא שהשימוש אינו מורשה ויש לשאול את המרצה. ההנחיה אינה מגבילה שימוש לצורכי למידה, אלא שימוש שמחליף את העבודה האינטלקטואלית במטלות מוערכות, ומחייבת לאמת את התוצרים.",
+    "sourceTitle": "Student Guideline on Responsible AI Use",
+    "sourceUrl": "https://www.queensu.ca/ai/ai-literacy/student-guideline-responsible-ai-use",
+    "sourceDate": null,
+    "evidence": "When a syllabus is silent, assume AI use is not authorized"
+  },
+  {
+    "institution": "queens",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "מדיניות היושרה האקדמית של הפקולטה למשפטים מגדירה \"Unauthorized Content Generation\" כהפרה: הפקת עבודה אקדמית, כולה או חלקה, בסיוע אנושי או טכנולוגי שלא אושר או שלא הוצהר עליו. בין הדוגמאות: תשובות שנוצרו בכלי בינה מלאכותית המייצרים טקסט, תמונות, קוד או וידאו. שימוש שאושר והוצהר עליו אינו נכלל בהגדרה.",
+    "sourceTitle": "Queen's Law Academic Integrity Policy (Revised March 22, 2024)",
+    "sourceUrl": "https://law.queensu.ca/sites/lawwww/files/img/QLRevisedAcademicIntegrityPolicyMarch2024.pdf",
+    "sourceDate": "2024-03-22",
+    "evidence": "using unapproved or undeclared human or technological assistance"
+  },
+  {
+    "institution": "queens",
+    "sector": "admissions",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "בהנחיות המועמדות לתוכנית JD נקבע כי כדי להבטיח שה-personal statement אותנטי, אסור להשתמש בבינה מלאכותית כגון ChatGPT או בפלטפורמות אחרות ליצירת תוכן.",
+    "sourceTitle": "Application Documentation | Queen's Law",
+    "sourceUrl": "https://law.queensu.ca/admissions/jd/admissions-process/first-year/application-documentation",
+    "sourceDate": null,
+    "evidence": "or other content creation platforms are not permitted."
+  },
+  {
+    "institution": "ottawa",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות ייעודית של הפקולטה למשפטים; חלה ההנחיה הכלל-אוניברסיטאית של uOttawa. ההיתר להשתמש בכלי בינה מלאכותית משתנה מקורס לקורס ואף ממטלה למטלה, ויש לבדוק את הסילבוס ואת הוראות המטלה. במקרה של ספק יש לפנות למרצה.",
+    "sourceTitle": "Academic integrity | Current students | University of Ottawa",
+    "sourceUrl": "https://www.uottawa.ca/current-students/academic-integrity",
+    "sourceDate": null,
+    "evidence": "Some courses will use and permit the use of artificial intelligence tools"
+  },
+  {
+    "institution": "ottawa",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "לפי עמוד היושרה האקדמית של האוניברסיטה (כלל-אוניברסיטאי), שימוש בטקסט שנוצר בבינה מלאכותית בעבודה אקדמית ללא רשות או ללא ציון המקור הוא הפרה של היושרה האקדמית. כאשר השימוש מותר, יש לגלות אותו: לצטט את הכלי כמקור ולהסביר כיצד נעשה בו שימוש.",
+    "sourceTitle": "Academic integrity | Current students | University of Ottawa",
+    "sourceUrl": "https://www.uottawa.ca/current-students/academic-integrity",
+    "sourceDate": null,
+    "evidence": "using AI-generated text as part of your academic work without permission or a citation"
+  },
+  {
+    "institution": "ottawa",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "ה-Common Law Section שילב באופן רשמי בתוכנית הלימודים את LawQi, פלטפורמת למידה קניינית של בינה מלאכותית משפטית, במסגרת סמינר לשנים מתקדמות \"AI and the Legal Profession\" של Professor Amy Salyzyn. הסטודנטים מתנסים בכלי בינה מלאכותית בסביבה מובנית, ללא שימוש בנתוני לקוחות אמיתיים.",
+    "sourceTitle": "Shaping future lawyers through AI innovation",
+    "sourceUrl": "https://www.uottawa.ca/faculty-law/news-all/shaping-future-lawyers-through-ai-innovation",
+    "sourceDate": "2026-04-16",
+    "evidence": "formally integrate LawQi, a proprietary legal AI learning platform"
+  },
+  {
+    "institution": "osgoode",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות פומבית ייעודית של Osgoode; חלה ההנחיה הכלל-אוניברסיטאית של York University. לפי Senate Academic Conduct Policy, שימוש ב-GenAI שלא תועד או שלא צוין כמקור אסור, ואילו שימוש מתועד אינו הפרה כברירת מחדל. מרצה רשאי להגביל או לאסור את השימוש בקורס, במבחן או במטלה מסוימת, ולכן יש לבדוק עם המרצה.",
+    "sourceTitle": "For Students - Generative AI in Teaching & Learning",
+    "sourceUrl": "https://www.yorku.ca/teachingandlearning/gen-ai/for-students/",
+    "sourceDate": null,
+    "evidence": "prohibits the undocumented or unreferenced use of GenAI by students"
+  },
+  {
+    "institution": "osgoode",
+    "sector": "integrity",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "לפי עמוד היושרה האקדמית של York University (כלל-אוניברסיטאי), שימוש בכלי בינה מלאכותית אינו פסול כשלעצמו, אך שימוש שהמרצה לא התיר עלול להיות הפרה לפי סעיף 5.2a(ii) של Senate Academic Conduct Policy. המרצה קובע אם השימוש אסור, מותר באופן מוגבל או מותר במלואו, והיתר בקורס אחד אינו חל על קורסים אחרים. על הסטודנטים לציין את השימוש ולבקש הבהרה במקרה של ספק.",
+    "sourceTitle": "AI Technology & Academic Integrity for Instructors",
+    "sourceUrl": "https://www.yorku.ca/unit/vpacad/academic-integrity/ai-technology-and-academic-integrity/",
+    "sourceDate": null,
+    "evidence": "Using AI tools when not permitted by the instructor may constitute a breach"
+  },
+  {
+    "institution": "oxford",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "למדיניות הפקולטה למשפטים \"AI Use in Summative Assessment\", כפי שהיא מובאת במדריך לתלמידי BCL ו-MJur לשנת 2026-27: בהערכות מסכמות שאינן בחינות בספרים סגורים מותר להשתמש בפלטפורמות בינה מלאכותית מאושרות בעבודת ההכנה, ככלי למחקר ולסיעור מוחות ראשוני בלבד. הסטודנט נשאר אחראי לעבודה כולה ולאמיתות המקורות, ועליו לצרף הצהרה ולשמור תיעוד של השימוש.",
+    "sourceTitle": "Graduate Student Handbook: BCL and MJur 2026-27 (Version 1.3)",
+    "sourceUrl": "https://www.law.ox.ac.uk/sites/default/files/2026-10/bcl_mjur_handbook_2026-27_v1.3.pdf",
+    "sourceDate": null,
+    "evidence": "students may use permitted AI platforms in preparatory work"
+  },
+  {
+    "institution": "oxford",
+    "sector": "exams",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי מדיניות הפקולטה למשפטים המובאת במדריך BCL ו-MJur, אסור להשתמש בבינה מלאכותית בבחינות בספרים סגורים. הבחינות בשנת 2026-27 נערכות באופן פרונטלי ובספרים סגורים.",
+    "sourceTitle": "Graduate Student Handbook: BCL and MJur 2026-27 (Version 1.3)",
+    "sourceUrl": "https://www.law.ox.ac.uk/sites/default/files/2026-10/bcl_mjur_handbook_2026-27_v1.3.pdf",
+    "sourceDate": null,
+    "evidence": "AI must not be used in closed book examinations."
+  },
+  {
+    "institution": "oxford",
+    "sector": "papers",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "בעבודות מוגשות (כגון חיבורים ודיסרטציות) מותר להיעזר בבינה מלאכותית רק בשלב ההכנה, למחקר ולסיעור מוחות, ורק בפלטפורמות שהאוניברסיטה מספקת. אסור להשתמש בה ליצירת טקסט כלשהו בעבודה המוגשת, לרבות טיוטות או ראשי פרקים של הטיעון. בעת ההגשה יש לחתום על הצהרה, ולשמור עד פרסום הציונים תיעוד של הפלטפורמה, סוגי השימוש וה-prompts.",
+    "sourceTitle": "Graduate Student Handbook: BCL and MJur 2026-27 (Version 1.3)",
+    "sourceUrl": "https://www.law.ox.ac.uk/sites/default/files/2026-10/bcl_mjur_handbook_2026-27_v1.3.pdf",
+    "sourceDate": null,
+    "evidence": "AI must not be used to generate any text in submitted work"
+  },
+  {
+    "institution": "oxford",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "כלל כלל-אוניברסיטאי מתוך ה-Student Handbook של Oxford, כפי שהוא מצוטט במדריך הפקולטה למשפטים: כל שימוש לא מורשה בבינה מלאכותית בעבודה המוגשת להערכה נחשב רמאות ופלגיאט, והעונשים כוללים כישלון בבחינה ובמקרים מתאימים הרחקה. כל שימוש נחשב לא מורשה אלא אם הותר במפורש ובכתב מראש בהוראות של אותה הערכה.",
+    "sourceTitle": "Graduate Student Handbook: BCL and MJur 2026-27 (Version 1.3)",
+    "sourceUrl": "https://www.law.ox.ac.uk/sites/default/files/2026-10/bcl_mjur_handbook_2026-27_v1.3.pdf",
+    "sourceDate": null,
+    "evidence": "Any unauthorised use of AI in work submitted for assessment constitutes cheating and plagiarism"
+  },
+  {
+    "institution": "oxford",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "לפי מדריך הפקולטה, השימוש מוגבל לפלטפורמות בינה מלאכותית שהאוניברסיטה מספקת לסטודנטים ללא תשלום (לדוגמה ChatGPT Edu), כדי להבטיח שוויון בגישה ואבטחת מידע. המדריך מפנה גם לקורס המקוון המעודכן Avoiding Plagiarism, הכולל הנחיות בנושא Generative AI.",
+    "sourceTitle": "Graduate Student Handbook: BCL and MJur 2026-27 (Version 1.3)",
+    "sourceUrl": "https://www.law.ox.ac.uk/sites/default/files/2026-10/bcl_mjur_handbook_2026-27_v1.3.pdf",
+    "sourceDate": null,
+    "evidence": "restricted to those provided to students by Oxford University"
+  },
+  {
+    "institution": "cambridge",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות פומבית ייעודית של הפקולטה למשפטים; חלה ההנחיה הכלל-אוניברסיטאית של Cambridge. סטודנטים רשאים לעשות שימוש הולם בכלי GenAI לתמיכה בלימוד העצמי שלהם, אך עליהם לבדוק תמיד את ההנחיות המקומיות של הפקולטה, המחלקה או ה-College, שכן הנוהג משתנה בין תחומים.",
+    "sourceTitle": "Using Generative AI | Blended Learning Service",
+    "sourceUrl": "https://blendedlearning.cam.ac.uk/artificial-intelligence-and-education/using-generative-ai",
+    "sourceDate": null,
+    "evidence": "permitted to make appropriate use of GenAI tools to support their personal study"
+  },
+  {
+    "institution": "cambridge",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "כלל כלל-אוניברסיטאי: סטודנט המשתמש בהערכה מסכמת בתוכן שנוצר בבינה מלאכותית בלי לציין זאת, כאילו היה עבודתו שלו, מבצע עבירת משמעת אקדמית, אלא אם נקבע במפורש אחרת בהנחיות המטלה. שימוש הולם לצורכי לימוד אישי, מחקר ועבודה מעצבת מותר.",
+    "sourceTitle": "Artificial Intelligence (AI) | Education Quality and Policy Office",
+    "sourceUrl": "https://www.educationalpolicy.admin.cam.ac.uk/plagiarism-and-academic-misconduct/artificial-intelligence-ai",
+    "sourceDate": null,
+    "evidence": "constitutes academic misconduct, unless explicitly stated otherwise in the assessment brief"
+  },
+  {
+    "institution": "cambridge",
+    "sector": "admissions",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית למועמדים לתואר ראשון: מותר להיעזר בכלי בינה מלאכותית כמקור לרעיונות או לסיוע במחקר בעת הכנת ה-personal statement, אך טענות כוזבות על הישגים אישיים יטופלו כהונאה במועמדות. שימוש בכלי בינה מלאכותית במהלך הריאיון אסור, והמראיינים בודקים זאת באופן אקראי.",
+    "sourceTitle": "AI and undergraduate applications | Undergraduate Study",
+    "sourceUrl": "https://www.undergraduate.study.cam.ac.uk/apply/ai-and-undergraduate-applications",
+    "sourceDate": null,
+    "evidence": "use AI tools as prompts for ideas or to assist in research"
+  },
+  {
+    "institution": "cambridge",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "university",
+    "summary": "האוניברסיטה מציעה קורס Generative AI Literacy (כלל-אוניברסיטאי, לא ייחודי למשפטים), הפתוח לכל הסגל והסטודנטים דרך Moodle. הקורס כולל שלושה מודולים: מבוא ל-GenAI, בינה מלאכותית בהוראה ובלמידה, ואתיקה, רגולציה ומדיניות. בעמוד לא צוין אם הקורס חובה.",
+    "sourceTitle": "Generative AI Literacy Course | Blended Learning Service",
+    "sourceUrl": "https://blendedlearning.cam.ac.uk/artificial-intelligence-and-education/generative-ai-literacy-course",
+    "sourceDate": null,
+    "evidence": "The course is available to all staff and students at the University of Cambridge."
+  }
+]

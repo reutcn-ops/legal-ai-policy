@@ -1,0 +1,156 @@
+[
+  {
+    "institution": "pennstate",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "law",
+    "summary": "ה-Unified Student Academic Handbook של Penn State Dickinson Law כולל סעיף ייעודי על Generative AI ויושרה אקדמית. ברירת המחדל היא שעבודה מוערכת או נדרשת חייבת להיות של הסטודנט בלבד, והגשת עבודה שנכתבה או שונתה באמצעות Generative AI היא הפרה של היושרה האקדמית, אלא אם המרצה התיר זאת במפורש. שימוש בכלים המזהים בעיות דקדוק, איות וסגנון מותר, אלא אם המרצה אסר. כאשר המרצה מתיר שימוש, יש לתת ייחוס מתאים לפי הנחיותיו.",
+    "sourceTitle": "Penn State Dickinson Law Unified Student Academic Handbook 2026-2027",
+    "sourceUrl": "https://dickinsonlaw.psu.edu/assets/uploads/documents/26.27-Handbook-7.8.26-Version.update.pdf",
+    "sourceDate": "2026-07-08",
+    "evidence": "including generative artificial intelligence programs, unless explicitly permitted by the instructor"
+  },
+  {
+    "institution": "pennstate",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "ה-Honor Code המאוחד של Penn State Dickinson Law מגדיר פלגיאט ככולל, בין היתר, הגשת תוכן שהופק באמצעות Generative AI כעבודתו של הסטודנט. כמו כן נחשבת לפלגיאט הגשת תוכן שנוצר בסיוע חיצוני בהיקף כזה שלא ניתן לראות בו באופן סביר עבודה של הסטודנט עצמו.",
+    "sourceTitle": "Honor Code | Penn State Dickinson Law",
+    "sourceUrl": "https://dickinsonlaw.psu.edu/academics/jd-program/honor-code",
+    "sourceDate": "2025-12-17",
+    "evidence": "submitting as the student’s own work content produced by generative AI"
+  },
+  {
+    "institution": "pennstate",
+    "sector": "exams",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי כללי הבחינות ב-Handbook, שימוש בשירותי AI ובתוכנות AI לא מורשים במהלך בחינה או מטלת הערכה, או בקשר אליהן, הוא הפרה של ה-Honor Code. בנוסף אסור להכניס לחדר הבחינה מכשירים אלקטרוניים, לרבות משקפיים מבוססי AI ומשקפיים חכמים.",
+    "sourceTitle": "Penn State Dickinson Law Unified Student Academic Handbook 2026-2027",
+    "sourceUrl": "https://dickinsonlaw.psu.edu/assets/uploads/documents/26.27-Handbook-7.8.26-Version.update.pdf",
+    "sourceDate": "2026-07-08",
+    "evidence": "use of unauthorized materials, AI services and software, or devices"
+  },
+  {
+    "institution": "pennstate",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "Penn State Dickinson Law הצטרף ל-Law School Partnership Program של Harvey, והסטודנטים, הסגל והצוות מקבלים גישה לפלטפורמת Harvey AI דרך Montague Law Library. הספרייה מציעה הדרכות על הכלי, והפלטפורמה צפויה לשמש בקורסים, בלמידה התנסותית ובקליניקות. המשתמשים נדרשים לאמת את התוצאות, ומדיניות Penn State אוסרת להעלות ל-Harvey מידע רגיש של לקוחות או מידע פרטי.",
+    "sourceTitle": "Penn State Dickinson Law joins Harvey’s Law School Partnership Program",
+    "sourceUrl": "https://dickinsonlaw.psu.edu/news/penn-state-dickinson-law-joins-harveys-law-school-partnership-program",
+    "sourceDate": "2026-02-23",
+    "evidence": "Students, staff, and faculty can use the AI platform to assist with research"
+  },
+  {
+    "institution": "american",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות פומבית ייעודית של Washington College of Law; המקור הוא הנחיה כלל-אוניברסיטאית של American University. לפי ההנחיה, על הסטודנטים לפעול לפי מדיניות ה-AI שנקבעה בסילבוס של כל קורס, ושימוש ב-AI ללא רשות או ללא גילוי עלול להיחשב הפרה של ה-Academic Integrity Code. הסטודנטים אחראים לתוצרי כלי ה-AI שבהם השתמשו, וכל תוצר של AI מחייב פיקוח אנושי. יחידות באוניברסיטה רשאיות לגבש הנחיות משלהן, בכפוף לעקרונות הכלליים.",
+    "sourceTitle": "University Guidance on the Responsible Use of Artificial Intelligence (AI)",
+    "sourceUrl": "https://american.edu/oit/security/Responsible-Use-of-AI.cfm",
+    "sourceDate": null,
+    "evidence": "use of AI without permission or disclosure may constitute a violation"
+  },
+  {
+    "institution": "uci",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "ה-Academic Honor Code של UCI Law מונה בין ההפרות שימוש לא מורשה בכל כלי אלקטרוני או כלי תוכנה, לרבות כלים מבוססי בינה מלאכותית. כלומר, שימוש ב-AI בעבודה אקדמית מותר רק כאשר ניתנה לכך הרשאה. הקוד אומץ ב-2017 ותוקן לאחרונה בנובמבר 2025.",
+    "sourceTitle": "Academic Honor Code | UC Irvine School of Law",
+    "sourceUrl": "https://www.law.uci.edu/academics/registrar/policies/honor-code.html",
+    "sourceDate": "2025-11-25",
+    "evidence": "including but not limited to artificial intelligence-based tools"
+  },
+  {
+    "institution": "uci",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "UCI Law משלב סוגיות של AI וטכנולוגיות מתפתחות בקורסי השנה הראשונה ובקורסים מתקדמים, ומציע בין היתר את הסמינר AI, Technology and Society. ה-Intellectual Property, Arts, and Technology Clinic פיתחה תוכנית הכשרה ב-AI לסטודנטים בקליניקה. בקורס Lawyering Skills נלמדות סוגיות של הסתמכות על אלגוריתמים קנייניים במחקר משפטי.",
+    "sourceTitle": "Academics and Courses | UCI Law",
+    "sourceUrl": "http://law.uci.edu/emergingtech/academics/",
+    "sourceDate": null,
+    "evidence": "has developed an AI training program for students in the clinic"
+  },
+  {
+    "institution": "notredame",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות Generative AI פומבית ייעודית של Notre Dame Law School; המקור הוא הנחיות כלל-אוניברסיטאיות של University of Notre Dame. האוניברסיטה מעודדת שימוש בטוח בכלי Generative AI, בכפוף למדיניות הקיימת, להגנה על מידע חסוי, מוגן בזכויות יוצרים ואישי, ולשקיפות ותיעוד של השימוש. כלי AI שנעשה בו שימוש עם מידע מוסדי חייב לעבור תהליך אישור, והמשתמש אחראי באופן מלא לתוצר. הסגל מתבקש להבהיר לסטודנטים את הציפיות לגבי שימוש ב-AI בכל קורס.",
+    "sourceTitle": "Policies and Guidelines | AI in Action | AI@ND | University of Notre Dame",
+    "sourceUrl": "https://ai.nd.edu/ai-in-action/policies-and-guidelines/",
+    "sourceDate": null,
+    "evidence": "Any AI tool used with institutional data must follow approval processes."
+  },
+  {
+    "institution": "notredame",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "Notre Dame Law School הודיע על שותפות עם Harvey, פלטפורמת Generative AI ייעודית למקצוע המשפטי, כדי להכין את הסטודנטים לשימוש יעיל ואתי ב-AI בעבודה המשפטית. בסמסטר אביב 2025 ניתנה גישה ל-Harvey לסטודנטים בשני קורסי Advanced Legal Research: Law Practice Technology ו-Online Legal Research.",
+    "sourceTitle": "Notre Dame Law School Becomes First Law School to Partner with Harvey AI to Integrate Artificial Intelligence into Legal Education",
+    "sourceUrl": "https://law.nd.edu/news-events/news/notre-dame-law-school-becomes-first-law-school-to-partner-with-harvey-ai-to-integrate-artificial-intelligence-into-legal-education/",
+    "sourceDate": "2025-08-28",
+    "evidence": "Harvey extended access to students enrolled in two Advanced Legal Research courses"
+  },
+  {
+    "institution": "toronto",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "law",
+    "summary": "ה-Handbook of Academic Policies של Jackman Law (תוכנית JD) קובע שבעבודות כתובות מוערכות, שימוש בכלי Generative AI ללא הוראה כתובה מפורשת של המרצה המתירה זאת במטלה מסוימת הוא שימוש בעזר לא מורשה ועבירה לפי ה-Code of Behaviour on Academic Matters. ברירת המחדל היא שהסטודנטים משלימים את עבודתם בעצמם, ללא סיוע של אדם אחר או של כלי טכנולוגי, אלא אם המרצה קבע אחרת. סטודנט שאינו בטוח אם כלי מסוים מותר צריך לשאול את המרצה.",
+    "sourceTitle": "Handbook of Academic Policies | JD Program",
+    "sourceUrl": "https://jackmanlaw.utoronto.ca/jd-program/handbook-webversion",
+    "sourceDate": null,
+    "evidence": "using them constitutes the use of an unauthorized aid"
+  },
+  {
+    "institution": "toronto",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "דף היושרה האקדמית של התוכניות לתארים מתקדמים ב-Jackman Law קובע שסטודנטים אינם רשאים להעתיק או לנסח מחדש תוכן מיישומי Generative AI, כולל ChatGPT ועוזרי כתיבה וקוד, לצורך השלמת מטלות, אלא אם המרצה התיר זאת במפורש. הצגת רעיון או ניסוח שנוצרו באמצעות AI כשלך עשויה להיחשב עבירה אקדמית, ומקרים חשודים ייבדקו לפי ה-Code of Behaviour on Academic Matters.",
+    "sourceTitle": "Avoiding Academic Offenses | Graduate Degrees",
+    "sourceUrl": "https://jackmanlaw.utoronto.ca/graduate-programs/avoiding-academic-offenses",
+    "sourceDate": null,
+    "evidence": "students may not copy or paraphrase from any generative artificial intelligence applications"
+  },
+  {
+    "institution": "toronto",
+    "sector": "admissions",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי דף ההגשה לתוכנית JD של Jackman Law, כל רכיבי הבקשה אמורים להיות מלאים, אותנטיים, אמיתיים, וכאשר רלוונטי, עבודה מקורית של המועמד ללא שימוש בבינה מלאכותית. הפקולטה שומרת לעצמה את הזכות לאמת את האותנטיות והמקוריות של חומרי הבקשה, ועשויה לבטל הצעת קבלה.",
+    "sourceTitle": "How to Apply | JD Program",
+    "sourceUrl": "https://jackmanlaw.utoronto.ca/jd-program/how-apply",
+    "sourceDate": null,
+    "evidence": "your original work without the use of artificial intelligence"
+  },
+  {
+    "institution": "ubc",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "לא נמצאה מדיניות Generative AI פומבית ייעודית של Allard School of Law; המקור הוא כלל אוניברסיטאי ב-UBC Academic Calendar. לפי מדיניות הסילבוסים של UBC, כל סילבוס קורס צריך לכלול הצהרה על שימוש ב-Generative AI בעבודות שמגישים סטודנטים, המבהירה כיצד השימוש מותר או אסור. כלומר, ההכרעה נתונה למרצה בכל קורס, ולא נקבעה במקור זה ברירת מחדל.",
+    "sourceTitle": "Content and Distribution of Course Syllabi | UBC Academic Calendar",
+    "sourceUrl": "https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/content-and-distribution-course-syllabi",
+    "sourceDate": null,
+    "evidence": "A statement on generative artificial intelligence (GenAI) usage in student-submitted work"
+  },
+  {
+    "institution": "ubc",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "Allard School of Law השיק יוזמה חדשה בנושא טכנולוגיה, משפט וחברה, שנועדה להכין סטודנטים ואת הקהילה המשפטית להזדמנויות ולסיכונים של AI וטכנולוגיות מתפתחות. במסגרת היוזמה נפתח קורס AI and the Law, העוסק בהשפעת AI על החברה ועל מערכת המשפט, באתגרי הרגולציה ובשימוש ב-AI בפרקטיקה המשפטית.",
+    "sourceTitle": "Shaping law and legal education for the future",
+    "sourceUrl": "https://allard.ubc.ca/about-us/news-and-announcements/2025/shaping-law-and-legal-education-future",
+    "sourceDate": "2025-10-09",
+    "evidence": "he’s launching a course on AI and the Law as part of the new initiative"
+  }
+]

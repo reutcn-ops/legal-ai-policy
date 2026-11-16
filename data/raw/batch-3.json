@@ -1,0 +1,211 @@
+[
+  {
+    "institution": "duke",
+    "sector": "faculty",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "בדבר הדיקנית בגיליון סתיו 2023 של Duke Law Magazine נמסר כי בית הספר החליט לאסור שימוש בבינה מלאכותית יוצרת בכל מטלה ללא אישור מפורש של המרצה, כצעד זמני עד לבחינת השפעת הטכנולוגיה. לא אותר עמוד מדיניות כללי עדכני יותר, אך מסמך Academic Integrity של בית הספר חוזר על אותו כלל.",
+    "sourceTitle": "From the Dean Fall 2023 - Duke Law Magazine",
+    "sourceUrl": "https://magazine.law.duke.edu/from-the-dean-fall-2023/",
+    "sourceDate": null,
+    "evidence": "prohibit the use of generative AI in any assignments without specific permission"
+  },
+  {
+    "institution": "duke",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "מסמך Academic Integrity של Duke Law קובע כי ללא אישור מפורש מהמרצה אין להשתמש בבינה מלאכותית בבחינות, בעבודות, במטלות או בכל עבודה אחרת בקורס, לרבות לצורכי תכנון וניסוח שאינם מגיעים לתוצר הסופי. כאשר ניתן אישור, יש לצטט את הכלי כמו כל מקור אחר, וכללי הייחוס והפלגיאט חלים גם על עבודה שנעזרה בבינה מלאכותית.",
+    "sourceTitle": "Academic Integrity (Duke Law School)",
+    "sourceUrl": "https://law.duke.edu/students/studentaffairs/integrity.pdf",
+    "sourceDate": null,
+    "evidence": "you may not use artificial intelligence in your classes for exams, papers, assignments"
+  },
+  {
+    "institution": "duke",
+    "sector": "admissions",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "בהנחיות הגשת המועמדות לתוכנית ה-JD (מחזור 2027) נדרש שכל דוגמאות הכתיבה יהיו עבודתו של המועמד בלבד: הרעיונות והניסוח מקורם במועמד, וכל הטיוטות והתוצר הסופי נכתבו ללא סיוע של בינה מלאכותית יוצרת.",
+    "sourceTitle": "Juris Doctor Application Information | Duke University School of Law",
+    "sourceUrl": "https://law.duke.edu/apply/degreeprograms/jd",
+    "sourceDate": null,
+    "evidence": "without the assistance of generative artificial intelligence"
+  },
+  {
+    "institution": "duke",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "ספריית Duke Law מעמידה לרשות הסטודנטים כלי בינה מלאכותית משפטיים. סגל, צוות וסטודנטים בשנים המתקדמות יכולים לפתוח חשבון Harvey בכתובת Duke.edu לשנת הלימודים 2026-2027, וסטודנטים בשנה א' מקבלים גישה בסמסטר האביב. בנוסף זמינים Lexis+ AI ‏(Protégé), ‏Westlaw Advantage ‏(CoCounsel) ו-Bloomberg Law AI Assistant.",
+    "sourceTitle": "Legal Databases & Links | Duke University School of Law",
+    "sourceUrl": "https://law.duke.edu/lib/legal-databases",
+    "sourceDate": null,
+    "evidence": "Faculty, staff, and upper-level Law students may create an account"
+  },
+  {
+    "institution": "virginia",
+    "sector": "exams",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי ה-Academic Policies של UVA Law, אלא אם ניתן אישור מפורש בכתב, אסור להשתמש בעזרים בזמן בחינה, ובכללם בינה מלאכותית. כל מה שמופיע בתשובה חייב להיכתב במקור ובמלואו בידי הסטודנט במהלך הבחינה. בית הספר רשאי לבדוק תשובות באמצעות תוכנות לזיהוי פלגיאט ו-AI.",
+    "sourceTitle": "V. Examinations | University of Virginia School of Law (Academic Policies)",
+    "sourceUrl": "https://www.law.virginia.edu/policies/v-examinations",
+    "sourceDate": null,
+    "evidence": "computer programs, internet applications, and artificial intelligence"
+  },
+  {
+    "institution": "virginia",
+    "sector": "papers",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי ה-Academic Policies של UVA Law, כל עבודה כתובה המוגשת בקורס, בסמינר או במחקר עצמאי חייבת להיות עבודתו המקורית של הסטודנט בלבד. אלא אם ניתן אישור מפורש בכתב, שימוש בבינה מלאכותית בתהליך הכתיבה אסור. בית הספר רשאי לבדוק עבודות באמצעות תוכנות לזיהוי פלגיאט ו-AI.",
+    "sourceTitle": "IV. Papers | University of Virginia School of Law (Academic Policies)",
+    "sourceUrl": "https://www.law.virginia.edu/policies/iv-papers",
+    "sourceDate": null,
+    "evidence": "use of artificial intelligence in the process of writing any paper"
+  },
+  {
+    "institution": "virginia",
+    "sector": "admissions",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "בעמוד השאלות הנפוצות של קבלת ה-JD נכתב כי ה-personal statement צריך להיכתב בקולו של המועמד, ללא סיוע של כלי בינה מלאכותית.",
+    "sourceTitle": "Frequently Asked Questions - J.D. Admissions | University of Virginia School of Law",
+    "sourceUrl": "https://www.law.virginia.edu/admissions/admissions/jd-admissions/faqs",
+    "sourceDate": null,
+    "evidence": "written in your own voice without the help of artificial intelligence tools"
+  },
+  {
+    "institution": "virginia",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "UVA Law מציע קורס חדש, AI and Legal Tools Lab, בהנחיית Professor Quinn Curtis, שבו סטודנטים בונים בקבוצות כלי AI (בין היתר באמצעות Claude) לאוטומציה של משימות משפטיות ולומדים את מגבלות הטכנולוגיה. לפי הידיעה, בשנת הלימודים הנוכחית מוצע מספר שיא של קורסים העוסקים ישירות ב-AI.",
+    "sourceTitle": "New Course Aims to Strengthen Students’ AI Skills | University of Virginia School of Law",
+    "sourceUrl": "https://www.law.virginia.edu/news/202611/new-course-aims-strengthen-students-ai-skills",
+    "sourceDate": "2026-11-11",
+    "evidence": "a record number of courses directly related to AI"
+  },
+  {
+    "institution": "northwestern",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "law",
+    "summary": "מדיניות ה-Generative AI של Northwestern Pritzker School of Law קובעת ברירת מחדל של איסור: ללא היתר מפורש מהמרצה, אסור לסטודנטים להשתמש בבינה מלאכותית יוצרת כדי להפיק, לגזור או לסייע ביצירת כל חומר המוגש למרצה. למרצים שיקול דעת להתיר שימוש בכל היקף שיראו לנכון, ועליהם להודיע על כך לכל הכיתה.",
+    "sourceTitle": "Teaching, Policies, Faculty & Research: Northwestern Pritzker School of Law",
+    "sourceUrl": "https://www.law.northwestern.edu/research-faculty/policies-recruitment/policies/teaching/",
+    "sourceDate": null,
+    "evidence": "Unless expressly permitted by the instructor, students are prohibited from using generative AI"
+  },
+  {
+    "institution": "northwestern",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "ה-Student Handbook של בית הספר קובע, בפרק Academic Integrity and Honor Code, כי כל צורה של רמאות, לרבות שימוש בלתי הולם בתוכן שנוצר בבינה מלאכותית, מהווה הפרה של מדיניות היושרה האקדמית של Northwestern. עבודות כתובות עשויות להיבדק לאיתור פלגיאט.",
+    "sourceTitle": "Student Handbook - Northwestern Pritzker School of Law",
+    "sourceUrl": "https://wwws.law.northwestern.edu/student-life/student-services/documents/student-handbook.pdf",
+    "sourceDate": null,
+    "evidence": "including improper use of content generated by artificial intelligence"
+  },
+  {
+    "institution": "northwestern",
+    "sector": "training",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "מדריך ה-Generative AI Resources של Pritzker Legal Research Center מפרט כלי AI הזמינים לסטודנטים, לסגל ולצוות, בהם Microsoft Copilot Chat, ‏Lexis+ Protégé, ‏Westlaw Advantage, ‏CoCounsel, ‏Harvey, ‏Legora ו-Bloomberg Law AI Assistant. השימוש המותר נקבע ברמת הקורס, ועל הסטודנטים לפעול לפי מדיניות המרצה והסילבוס; Harvey ו-Legora מותרים למטרות לימודיות בלבד.",
+    "sourceTitle": "Tools Available at Northwestern Pritzker School of Law - Generative AI Resources - Pritzker Legal Research Center",
+    "sourceUrl": "https://library.law.northwestern.edu/gai/availabletools",
+    "sourceDate": "2026-11-12",
+    "evidence": "permitted use of AI tools is determined at the course level"
+  },
+  {
+    "institution": "bu",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "law",
+    "summary": "ה-Provisional BUSL AI Policy קובעת כי כל מרצה מגדיר את מדיניות ה-AI בקורס שלו, ובאחריות הסטודנטים להכיר את הכללים בכל קורס ומטלה; המסמך אינו קובע ברירת מחדל של היתר או איסור. כל כותב אחראי לדיוק וליושרה של עבודתו ולשמירה על סודיות לקוחות, ויש לתת ייחוס לשימוש ב-AI כפי שהיה ניתן לעוזר מחקר אנושי (בדיקת איות ודקדוק אינה מחייבת ייחוס).",
+    "sourceTitle": "Provisional BUSL AI Policy",
+    "sourceUrl": "https://www.bu.edu/law/files/2025/11/BUSL-AI-Policy.pdf",
+    "sourceDate": null,
+    "evidence": "It is up to instructors to set the AI policy for their courses."
+  },
+  {
+    "institution": "bu",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "BU Law הודיע על שותפות עם Harvey AI, המעניקה לסטודנטים, לסגל ולצוות של בית הספר גישה לפלטפורמת Harvey.",
+    "sourceTitle": "BU Law partners with Harvey AI to expand AI tools for its community",
+    "sourceUrl": "https://www.bu.edu/law/2025/10/02/boston-university-school-of-law-partners-with-harvey-ai-to-equip-its-students-faculty-and-staff-with-leading-artificial-intelligence-tools",
+    "sourceDate": "2025-10-02",
+    "evidence": "allow BU Law students, faculty, and staff access to the Harvey platform"
+  },
+  {
+    "institution": "gw",
+    "sector": "first-year",
+    "stance": "conditional",
+    "scope": "law",
+    "summary": "בעמוד רשמי של GW Law מתוארת הגישה בתוכנית Fundamentals of Lawyering לשנה א': ה-AI משולב בהדרגה. בסמסטר הראשון הסטודנטים לומדים את מיומנויות היסוד בלעדיו ורואים דוגמאות לטעויות של מודלים; בסמסטר האביב הותר שימוש בכלי ה-AI של LexisNexis ו-Westlaw למחקר משפטי ובמודלים כלליים לתרגיל ניסוח, בכפוף לעריכה ולכללי האתיקה המקצועית. מדובר בתיאור של פרקטיקת הוראה ולא בתקנון מחייב.",
+    "sourceTitle": "Fundamentals of Lawyering: AI in 1L Classes | GW Law",
+    "sourceUrl": "https://www.law.gwu.edu/fundamentals-lawyering-ai-1l-classes",
+    "sourceDate": "2025-05-08",
+    "evidence": "they learn the skills first so they can learn how to do it"
+  },
+  {
+    "institution": "gw",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "לפי כתבה רשמית של GW Law, סטודנטים בקורסים מתקדמים ובלמידה התנסותית מקבלים גישה ל-Lexis+ AI, ‏Westlaw AI ו-Harvey למחקר ולניסוח, והכשרת AI משולבת כבר בתוכנית Fundamentals of Lawyering בשנה א'. בית הספר השיק תוכנית תעודה בת ארבע נקודות זכות במיומנויות AI מעשיות, שמסיימיה מקבלים ציון דיקן בגיליון הציונים.",
+    "sourceTitle": "Meeting the Moment | GW Law",
+    "sourceUrl": "https://www.law.gwu.edu/meeting-moment",
+    "sourceDate": "2026-03-17",
+    "evidence": "Lexis+ AI, Westlaw AI, and Harvey for research and drafting"
+  },
+  {
+    "institution": "texas",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "law",
+    "summary": "במזכר הדיקן Bobby Chesney לסגל, AI and Legal Education, מוצגת אסטרטגיית ה-AI של Texas Law: הקניית מיומנויות AI לצד שמירה על יושרת ההערכה ועל עומק הלמידה. המזכר אינו קובע כלל אחיד לכל הקורסים; כל מרצה מחליט אם להתיר שימוש ב-AI במטלה, בעבודה או בבחינה, וחלק מהמרצים אף דורשים מהסטודנטים לתעד את השימוש ב-AI בתהליך הכתיבה.",
+    "sourceTitle": "AI and Legal Education (memorandum from Dean Bobby Chesney, The University of Texas at Austin School of Law)",
+    "sourceUrl": "https://law.utexas.edu/wp-content/uploads/2026/06/AI-and-Legal-Education-UT-Austin.pdf",
+    "sourceDate": "2026-06-16",
+    "evidence": "if a professor actually wants students to employ AI in some fashion"
+  },
+  {
+    "institution": "texas",
+    "sector": "exams",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי מזכר הדיקן, כדי להגן על יושרת ההערכה בוטלו כמעט לחלוטין בחינות הבית ב-Texas Law, וגדל במידה ניכרת מספר הבחינות בכיתה הנערכות בתוכנה המגבילה את הפעולות במכשיר ובכך מונעת שימוש ב-AI. מרצה המעוניין בכך רשאי לשלב שימוש ב-AI בהערכה.",
+    "sourceTitle": "AI and Legal Education (memorandum from Dean Bobby Chesney, The University of Texas at Austin School of Law)",
+    "sourceUrl": "https://law.utexas.edu/wp-content/uploads/2026/06/AI-and-Legal-Education-UT-Austin.pdf",
+    "sourceDate": "2026-06-16",
+    "evidence": "the near-complete elimination of take-home exams"
+  },
+  {
+    "institution": "texas",
+    "sector": "admissions",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "בהנחיות הגשת המועמדות לתוכנית ה-LL.M. של Texas Law נקבע כי ה-personal statement ייכתב ללא סיוע מאחרים או מכלי AI. בעמוד דרישות המועמדות ל-JD לא נמצאה התייחסות מקבילה.",
+    "sourceTitle": "Application Information | Master of Laws (LL.M.) | Texas Law",
+    "sourceUrl": "https://law.utexas.edu/master-of-laws/application-information/",
+    "sourceDate": null,
+    "evidence": "written without assistance from others or AI Tools"
+  },
+  {
+    "institution": "texas",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "בעמוד Texas Law AI מתוארת תוכנית AI Skills Program, שחלקים ממנה מועברים בקורסים רגילים, לרבות קורסי המחקר והכתיבה של שנה א'. בית הספר מספק לסטודנטים גישה ל-Harvey ול-Legora, בנוסף לרישיונות האוניברסיטה ל-Claude, ‏ChatGPT, ‏Copilot ו-Gemini.",
+    "sourceTitle": "Texas Law AI | Texas Law",
+    "sourceUrl": "https://law.utexas.edu/ai/",
+    "sourceDate": null,
+    "evidence": "leading legal research and drafting AI services including Harvey and Legora"
+  }
+]

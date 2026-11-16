@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>מדיניות AI בפקולטות למשפטים</title>
+  <meta name="description" content="מעקב שבועי אחר מדיניות בינה מלאכותית בפקולטות המובילות למשפטים בארה&quot;ב, בריטניה וקנדה">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>מדיניות AI בפקולטות למשפטים</h1>
+      <p class="sub">מעקב שבועי אחר הפקולטות המובילות בארה"ב, בריטניה וקנדה</p>
+      <p class="stats" id="stats"></p>
+    </div>
+  </header>
+
+  <div class="demo" id="demo" hidden>נתוני דוגמה בלבד. הטקסטים והעמדות אינם מידע אמיתי על המוסדות.</div>
+
+  <main class="wrap">
+    <nav class="tabs" role="tablist" aria-label="תצוגות">
+      <button role="tab" data-view="uni">לפי אוניברסיטה</button>
+      <button role="tab" data-view="country">לפי מדינה</button>
+      <button role="tab" data-view="sector">לפי סקטור</button>
+      <button role="tab" data-view="matrix">טבלת השוואה</button>
+      <button role="tab" data-view="changes">מה השתנה</button>
+    </nav>
+
+    <form class="filters" id="filters" onsubmit="return false">
+      <input type="search" id="q" placeholder="חיפוש חופשי" aria-label="חיפוש חופשי">
+      <select id="f-country" aria-label="מדינה"></select>
+      <select id="f-sector" aria-label="סקטור"></select>
+      <select id="f-stance" aria-label="עמדה"></select>
+      <button type="button" id="reset">ניקוי</button>
+    </form>
+
+    <div class="legend" id="legend"></div>
+    <section id="view" aria-live="polite"></section>
+  </main>
+
+  <footer class="wrap foot">
+    <p id="foot"></p>
+    <p>המידע מבוסס על מקורות פומביים רשמיים ומסוכם באופן אוטומטי. לפני הסתמכות יש לעיין במקור המקושר.</p>
+  </footer>
+
+  <dialog id="dlg"><div id="dlg-body"></div><button id="dlg-close">סגירה</button></dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

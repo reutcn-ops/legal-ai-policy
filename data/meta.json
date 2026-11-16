@@ -1,0 +1,27 @@
+{
+  "demo": false,
+  "rankingSource": "QS World University Rankings by Subject – Law",
+  "countries": {
+    "US": "ארצות הברית",
+    "UK": "בריטניה",
+    "CA": "קנדה"
+  },
+  "sectors": {
+    "faculty": "מדיניות כלל-פקולטית",
+    "first-year": "שנה א' וכתיבה משפטית",
+    "core": "קורסי ליבה",
+    "papers": "עבודות וסמינריונים",
+    "exams": "בחינות",
+    "clinics": "קליניקות משפטיות",
+    "admissions": "קבלה ומועמדות",
+    "integrity": "קוד כבוד ויושרה אקדמית",
+    "training": "הכשרה וקורסי AI"
+  },
+  "stances": {
+    "prohibited": "אוסר",
+    "conditional": "מתיר בתנאים",
+    "permitted": "מתיר",
+    "instructor": "לשיקול המרצה",
+    "none": "לא נמצאה מדיניות"
+  }
+}

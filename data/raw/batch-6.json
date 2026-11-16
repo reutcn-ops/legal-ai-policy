@@ -1,0 +1,233 @@
+[
+  {
+    "institution": "lse",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "מדיניות כלל-מוסדית של LSE (לא ייחודית ל-LSE Law School): כל מחלקה אקדמית חייבת לקבוע את מדיניותה לגבי שימוש סטודנטים ב-AI גנרטיבי בהערכה, באחת משלוש עמדות – ללא שימוש מורשה, שימוש מורשה מוגבל, או שימוש מורשה מלא. כאשר יש כללים שונים לקורסים שונים, מרכז/ת הקורס בוחר/ת באחת העמדות ומפרסם/ת אותה ב-Moodle. בנוסף, כל המחלקות נדרשות לשלב שיטות הערכה מפוקחות (observed assessment). לא נמצא מסמך פומבי עדכני של LSE Law School עצמו.",
+    "sourceTitle": "Guidelines on the use of generative AI in education for the academic year 2026/27",
+    "sourceUrl": "https://info.lse.ac.uk/staff/divisions/Eden-Centre/Assets-EC/Documents/AI-docs-2026-27/AI-GUIDELINES-SEPT26.pdf",
+    "sourceDate": null,
+    "evidence": "All academic departments must agree their policy on the use"
+  },
+  {
+    "institution": "lse",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "מדיניות כלל-מוסדית של LSE: שימוש בכלי AI לסיוע בכל חלק של מטלת הערכה אסור בהחלט, אלא אם המחלקה או מרכז/ת הקורס התירו שימוש מסוים. הדבר מופיע גם בהצהרת היושרה האקדמית שעליה הסטודנטים מתחייבים. על הגשות משנת 2026/27 חלות ה-Assessment Integrity Regulations.",
+    "sourceTitle": "Assessment Discipline and Academic Misconduct",
+    "sourceUrl": "http://info.lse.ac.uk/current-students/services/assessment-and-results/exams/exam-discipline-and-academic-misconduct",
+    "sourceDate": null,
+    "evidence": "to help with any part of your assessment is strictly prohibited unless"
+  },
+  {
+    "institution": "lse",
+    "sector": "admissions",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיה כלל-מוסדית של LSE למועמדים לתואר ראשון (לא ייחודית למשפטים): LSE אינה מעודדת שימוש בכלי AI גנרטיבי ליצירת ה-personal statement. הדף כולל סעיף ייעודי בנושא \"Using Artificial Intelligence\" ומתייחס להצהרות שנוצרו בעזרת כלים כמו ChatGPT.",
+    "sourceTitle": "Personal statement",
+    "sourceUrl": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Completing-the-UCAS-form/Personal-Statement",
+    "sourceDate": null,
+    "evidence": "We do not encourage applicants to use generative Artificial Intelligence tools"
+  },
+  {
+    "institution": "lse",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "university",
+    "summary": "LSE מעניקה לכל הסטודנטים גישה חינמית לשני כלי AI – Claude ו-Copilot – דרך ה-Digital Skills Lab (שירות כלל-מוסדי, לא ייחודי למשפטים). לפני שימוש בכלים בעבודה אקדמית יש לבדוק את הנחיות המחלקה.",
+    "sourceTitle": "Generative AI (LSE Digital Skills Lab)",
+    "sourceUrl": "https://info.lse.ac.uk/current-students/digital-skills-lab/copilot",
+    "sourceDate": null,
+    "evidence": "you've got free access to two AI tools: Claude and Copilot"
+  },
+  {
+    "institution": "ucl",
+    "sector": "faculty",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי נייר עמדה של אנשי סגל UCL Faculty of Laws המתאר את המדיניות שאימצה הפקולטה: בכל קורס נלמד, בתואר ראשון ובתארים מתקדמים, 50%–100% מההערכה חייבים להיות \"מאובטחים\" – כלומר בצורה שמבטיחה ש-AI אינו מחליף את הידע והמיומנויות הנבחנים. ביתר סוגי ההערכה שימוש ב-AI היוצר או משנה תוכן אסור כברירת מחדל.",
+    "sourceTitle": "Artificial Intelligence, Education and Assessment at UCL Laws: Current Thinking and Next Steps for the UK Legal Education Sector (UCL Legal Studies Research Paper Series 04/2025)",
+    "sourceUrl": "https://discovery.ucl.ac.uk/10208136/1/AI%2C%20Education%20and%20Assessment%20at%20UCL%20Laws.pdf",
+    "sourceDate": null,
+    "evidence": "between 50-100% of every taught module, both undergraduate and postgraduate, is assessed securely"
+  },
+  {
+    "institution": "ucl",
+    "sector": "papers",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "ב-UCL Faculty of Laws, בעבודות (coursework) ובשאר סוגי ההערכה שאינם מאובטחים, שימוש ב-AI שיכול ליצור או לשנות תוכן אסור כברירת מחדל. החריג היחיד הוא אישור מפורש של מרכז/ת הקורס מטעם פדגוגי תקף. שימוש ב-AI בעבודה ללא היתר כזה מהווה עבירת משמעת.",
+    "sourceTitle": "Artificial Intelligence, Education and Assessment at UCL Laws: Current Thinking and Next Steps for the UK Legal Education Sector (UCL Legal Studies Research Paper Series 04/2025)",
+    "sourceUrl": "https://discovery.ucl.ac.uk/10208136/1/AI%2C%20Education%20and%20Assessment%20at%20UCL%20Laws.pdf",
+    "sourceDate": null,
+    "evidence": "prohibited by default unless explicitly authorised by the module convenor"
+  },
+  {
+    "institution": "ucl",
+    "sector": "exams",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "ב-UCL Faculty of Laws ההערכה ה\"מאובטחת\" – לפחות מחצית מכל קורס – נערכת באופן שמונע שימוש ב-AI. היא כוללת בחינות פרונטליות (in person) והערכות פרונטליות אחרות, לרבות בחינות בעל-פה.",
+    "sourceTitle": "Artificial Intelligence, Education and Assessment at UCL Laws: Current Thinking and Next Steps for the UK Legal Education Sector (UCL Legal Studies Research Paper Series 04/2025)",
+    "sourceUrl": "https://discovery.ucl.ac.uk/10208136/1/AI%2C%20Education%20and%20Assessment%20at%20UCL%20Laws.pdf",
+    "sourceDate": null,
+    "evidence": "Secure assessments include in person examinations"
+  },
+  {
+    "institution": "ucl",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "law",
+    "summary": "לפי נייר העמדה של UCL Faculty of Laws, על פי תקנות UCL שימוש לא מורשה ב-AI נחשב לפלגיאט. ממצא כזה עשוי לחייב גילוי לרגולטורים של מקצוע עריכת הדין במסגרת בדיקת האופי וההתאמה (character and suitability).",
+    "sourceTitle": "Artificial Intelligence, Education and Assessment at UCL Laws: Current Thinking and Next Steps for the UK Legal Education Sector (UCL Legal Studies Research Paper Series 04/2025)",
+    "sourceUrl": "https://discovery.ucl.ac.uk/10208136/1/AI%2C%20Education%20and%20Assessment%20at%20UCL%20Laws.pdf",
+    "sourceDate": null,
+    "evidence": "unauthorised AI usage is counted as plagiarism"
+  },
+  {
+    "institution": "edinburgh",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיות כלל-אוניברסיטאיות של University of Edinburgh (לא ייחודיות ל-Edinburgh Law School): האוניברסיטה אינה אוסרת שימוש ב-AI גנרטיבי וסומכת על הסטודנטים לנהוג באחריות, אך אסור להציג תוצרי AI כעבודה מקורית של הסטודנט ואסור להשתמש באפליקציות תרגום מבוססות AI של צד שלישי בכיתה. כל קורס רשאי להתיר שימושים מסוימים או להגביל יותר, וכאשר השימוש מותר יש לנהוג בשקיפות לגביו.",
+    "sourceTitle": "Using generative AI in your studies: guidelines for students",
+    "sourceUrl": "https://information-services.ed.ac.uk/computing/comms-and-collab/elm/guidance-for-working-with-generative-ai",
+    "sourceDate": "2026-10-26",
+    "evidence": "Presenting AI outputs as your own, original work."
+  },
+  {
+    "institution": "edinburgh",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "דף ההתנהגות האקדמית הכלל-אוניברסיטאי של University of Edinburgh כולל סעיף על AI גנרטיבי: חלק מכלי ההגהה המקוונים מבוססים על AI גנרטיבי, ויש לציין את השימוש בהם כראוי, כמו בכל כלי AI גנרטיבי אחר. דף ה-Academic Misconduct and Plagiarism של Edinburgh Law School מפנה להנחיות האוניברסיטה בנושא.",
+    "sourceTitle": "What is academic misconduct?",
+    "sourceUrl": "https://registryservices.ed.ac.uk/academic-services/students/conduct/academic-misconduct/what-is-academic-misconduct",
+    "sourceDate": "2024-07-29",
+    "evidence": "should be appropriately acknowledged, as when using other generative AI tools"
+  },
+  {
+    "institution": "edinburgh",
+    "sector": "admissions",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית של University of Edinburgh למועמדים לתואר ראשון: מי שמעתיק personal statement ממקור אחר או מבקש ממישהו אחר לכתוב אותו עבורו – לרבות שימוש באפליקציות AI כמו ChatGPT – עלול לבצע הונאה. הדף מפנה גם להנחיות UCAS בנושא.",
+    "sourceTitle": "What you need to apply | Undergraduate study | The University of Edinburgh",
+    "sourceUrl": "https://study.ed.ac.uk/undergraduate/applying/making-an-application/what-you-need-to-apply",
+    "sourceDate": "2026-01-08",
+    "evidence": "including the use of AI apps such as ChatGPT, you could be committing fraud"
+  },
+  {
+    "institution": "edinburgh",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "Edinburgh Law School מציג את ClientConnectEd – סימולטור ראיונות לקוח מבוסס AI גנרטיבי – במסגרת ה-Diploma in Professional Legal Practice. ראש בית הספר, Professor Jo Shaw, הובילה מכתב פתוח של ראשי בתי הספר למשפטים בסקוטלנד המדגיש את החשיבות של סיוע לסטודנטים להבין את היכולות, המגבלות וההשלכות האתיות של AI גנרטיבי.",
+    "sourceTitle": "Professor Jo Shaw contributes to open letter on Generative AI in Scottish law schools",
+    "sourceUrl": "https://www.law.ed.ac.uk/news-events/news/professor-jo-shaw-contributes-open-letter-generative-ai-scottish-law-schools",
+    "sourceDate": "2026-02-17",
+    "evidence": "introducing ClientConnectEd - a generative AI client interview simulator"
+  },
+  {
+    "institution": "kcl",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיות כלל-מוסדיות של King's College London (לא ייחודיות ל-The Dickson Poon School of Law): King's אינה אוסרת שימוש ב-AI מסוג כלשהו, אך הדרישות וההגבלות משתנות בין תוכניות ואף בין קורסים, ועל הסטודנטים לבדוק אותן. שימוש בלתי הולם ללא ייחוס נחשב להפרת יושרה אקדמית. Microsoft Copilot זמין לכל הסטודנטים דרך חשבון ה-King's שלהם.",
+    "sourceTitle": "Generative AI: student guidance",
+    "sourceUrl": "https://www.kcl.ac.uk/about/strategy/learning-and-teaching/ai-guidance/student-guidance",
+    "sourceDate": null,
+    "evidence": "King's does not ban the use of any type of AI."
+  },
+  {
+    "institution": "kcl",
+    "sector": "papers",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיה כלל-מוסדית של King's College London: סטודנטים חייבים לציין כל שימוש בכלי AI גנרטיבי בעבודות (coursework), באמצעות הצהרה המצורפת להגשה לצד רשימת המקורות. שימוש בלתי הולם ללא ייחוס נחשב להפרת יושרה אקדמית, והעונשים נעים מאזהרה רשמית ועד הרחקה.",
+    "sourceTitle": "Generative AI: student guidance",
+    "sourceUrl": "https://www.kcl.ac.uk/about/strategy/learning-and-teaching/ai-guidance/student-guidance",
+    "sourceDate": null,
+    "evidence": "King's requires students to acknowledge any use of generative AI tools in coursework."
+  },
+  {
+    "institution": "kcl",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "לפי ההנחיות הכלל-מוסדיות של King's College London, הגשת טקסט שנוצר ב-AI כעבודה של הסטודנט ללא אישור בכתב מהמחלקה נחשבת להפרת יושרה אקדמית. את השימוש ההוגן אפשר להגדיר ברמת התוכנית, הקורס או המטלה. King's בחרה שלא להפעיל את זיהוי ה-AI ב-Turnitin, משום שכלי הזיהוי אינם אמינים.",
+    "sourceTitle": "Macro-level guidance: University-wide principles and policy",
+    "sourceUrl": "https://www.kcl.ac.uk/about/strategy/learning-and-teaching/ai-guidance/macro-level",
+    "sourceDate": null,
+    "evidence": "without written permission from their department is considered misconduct"
+  },
+  {
+    "institution": "kcl",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "The Dickson Poon School of Law השיק את ה-AI Literacy Programme, בהובלת הדיקן Professor Dan Hunter. התוכנית מעניקה לסטודנטים ולסגל של בית הספר גישה חינמית לכלי AI משפטיים – Luminance, Legora, Harvey ו-Lucio AI – וכוללת קורס מקוון מותאם בן 12 שבועות וסדנאות שבועיות עם אנשי מקצוע. התוכנית החלה בינואר 2026.",
+    "sourceTitle": "King's launches world-first AI Literacy Programme for law students and staff",
+    "sourceUrl": "https://www.kcl.ac.uk/news/kings-launches-world-first-ai-literacy-programme-for-law-students-and-staff",
+    "sourceDate": "2025-11-17",
+    "evidence": "the world's leading legal AI tools"
+  },
+  {
+    "institution": "qmul",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מדריך כלל-אוניברסיטאי של Queen Mary University of London (לא ייחודי ל-School of Law): שימוש ב-AI גנרטיבי עשוי להיות מקובל בחלק מהמצבים אך לא בכולם. לחלק מבתי הספר יש הנחיות משלהם, ולכן יש לבדוק מול בית הספר ואת הוראות כל מטלה. כל שימוש חייב לעמוד ב-Academic Integrity and Misconduct Policy.",
+    "sourceTitle": "Student Guide to Generative AI",
+    "sourceUrl": "https://www.qmul.ac.uk/library/academic-skills/student-guide-to-generative-ai/",
+    "sourceDate": "2025-09-12",
+    "evidence": "AI use may be acceptable in some scenarios, but not all."
+  },
+  {
+    "institution": "qmul",
+    "sector": "exams",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "מדיניות כלל-אוניברסיטאית של Queen Mary University of London: מטלות ההערכה מסווגות בשיטת רמזור בת שלוש דרגות. בחינות פרונטליות בהשגחה שייכות לקטגוריה האדומה, שבה שימוש בכלי AI אסור; בקטגוריה הכתומה AI מותר ככלי עזר, ובירוקה השימוש בו נדרש. הסטודנטים נדרשים למלא הצהרת AI בכל מטלה, והשיטה תחול על כל ההערכות החל משנת 2027/28.",
+    "sourceTitle": "AI and assessment",
+    "sourceUrl": "https://www.qmul.ac.uk/library/academic-skills/student-guide-to-generative-ai/ai-and-assessment/",
+    "sourceDate": null,
+    "evidence": "Use of AI tools is not permitted."
+  },
+  {
+    "institution": "qmul",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "ה-Academic Integrity & Misconduct Policy של Queen Mary University of London (כלל-אוניברסיטאית) מגדירה כהפרת יושרה אקדמית עיבוד טקסט לא מורשה או לא מוצהר הפוגע ביושרת ההערכה – לרבות שימוש בתוכנות פרפרזה, ב-AI גנרטיבי או בתרגום מכונה – כך שלא ניתן לראות בעבודה שהוגשה עבודה של הסטודנט בלבד.",
+    "sourceTitle": "Academic Integrity & Misconduct Policy",
+    "sourceUrl": "https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Academic-Integrity-&-Misconduct-Policy.pdf",
+    "sourceDate": "2024-06-13",
+    "evidence": "generative artificial intelligence or machine translation such that the work"
+  },
+  {
+    "institution": "qmul",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "university",
+    "summary": "Queen Mary University of London מספקת לסטודנטים גישה ל-Microsoft Copilot (שירות כלל-אוניברסיטאי, לא ייחודי למשפטים). סטודנטים חדשים נרשמים למשאב ב-QMplus בנושא AI ללמידה ולמחקר של סטודנטים, וסטודנטים ממשיכים יכולים להירשם אליו בעצמם.",
+    "sourceTitle": "Student Guide to Generative AI",
+    "sourceUrl": "https://www.qmul.ac.uk/library/academic-skills/student-guide-to-generative-ai/",
+    "sourceDate": "2025-09-12",
+    "evidence": "Queen Mary provides access to Microsoft Copilot."
+  },
+  {
+    "institution": "durham",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מדיניות כלל-אוניברסיטאית של Durham University (לא ייחודית ל-Durham Law School): עדכון למדיניות ה-GenAI אושר ב-Senate ביוני 2026. בהערכת סטודנטים, השימוש המקובל ב-GenAI תלוי באופי המטלה ובמטרתה, והתוכניות מתעדכנות כך שיכללו שילוב של הערכות GenAI-secure והערכות GenAI-open. לא נמצא מסמך פומבי רשמי של Durham Law School עצמו.",
+    "sourceTitle": "Generative AI in Learning, Teaching & Assessment at Durham University",
+    "sourceUrl": "http://dcad-resourcebank.webspace.durham.ac.uk/2024/07/16/generative-ai-in-learning-teaching-assessment/",
+    "sourceDate": "2026-07-07",
+    "evidence": "acceptable use of GenAI will depend on the nature and purpose of the assessment."
+  }
+]

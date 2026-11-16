@@ -1,0 +1,167 @@
+[
+  {
+    "institution": "brookes",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מדיניות כלל-אוניברסיטאית (לא ייחודית למשפטים): ההנחיות לשימוש ב-AI משתנות ממטלה למטלה, ועל הסטודנטים לבדוק תחילה את ה-module handbook. כל שימוש ב-AI חייב להיות מוצהר בסעיף Acknowledgements בסוף העבודה. שימוש שמקנה יתרון בלתי הוגן עלול להפר את תקנות ההתנהגות האקדמית.",
+    "sourceTitle": "Artificial intelligence - Oxford Brookes University",
+    "sourceUrl": "https://www.brookes.ac.uk/students/academic-development/online-resources/Artificial-intelligence",
+    "sourceDate": null,
+    "evidence": "Different assignments will have different instructions on whether and how you can use AI"
+  },
+  {
+    "institution": "brookes",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "כללי ההתנהגות האקדמית של האוניברסיטה (לא ייחודיים למשפטים) מגדירים כהפרה: הצגת תוצרי AI כעבודת הסטודנט, שימוש ב-AI בניגוד להוראות המטלה, ושימוש ב-AI בלי להגיש טופס הצהרה. הסטודנטים נדרשים להצהיר בטופס ב-Moodle באילו כלי AI השתמשו וכיצד.",
+    "sourceTitle": "Academic Conduct - Oxford Brookes University",
+    "sourceUrl": "https://www.brookes.ac.uk/students/sirt/academic-misconduct",
+    "sourceDate": null,
+    "evidence": "the use of AI in an assignment without the submission of a declaration form"
+  },
+  {
+    "institution": "brookes",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "university",
+    "summary": "ברמת האוניברסיטה (לא ייחודי למשפטים): לסטודנטים ולסגל יש גישה ל-Microsoft Copilot בסביבה מאובטחת דרך חשבון Oxford Brookes, עם המלצה שלא להעלות מידע חסוי או מוגן. הסגל מתבקש לוודא שהסטודנטים השלימו את הקורס 'Use of Artificial Intelligence' ב-Moodle. האוניברסיטה מציינת שאיסור גורף על GenAI אינו לטובת הסטודנטים.",
+    "sourceTitle": "FAQs on Use of AI in Teaching, Learning and Assessment - Oxford Brookes University",
+    "sourceUrl": "https://www.brookes.ac.uk/staff/working-at-brookes/learning-and-career-development/academic-enhancement-and-development/teaching-and-learning/genai-university-wide-policy-and-practice/faqs",
+    "sourceDate": null,
+    "evidence": "Oxford Brookes student's and staff have access to the data-secure Microsoft Co-pilot AI chatbot"
+  },
+  {
+    "institution": "qub",
+    "sector": "faculty",
+    "stance": "instructor",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית (לא ייחודית למשפטים): מי שמלמד את המודול מבהיר אם וכיצד מותר להשתמש ב-AI במטלות ההערכה, ולא נקבעה ברירת מחדל כללית. האוניברסיטה מציינת שאיסור גורף על AI אינו אפשרי. שימוש לרעה ב-AI כפוף לתקנות העבירות האקדמיות.",
+    "sourceTitle": "AI in Assessment and Feedback: Opportunities and Challenges - Queen's DigiHub",
+    "sourceUrl": "https://blogs.qub.ac.uk/digitallearning/ai/ai-in-education/assessment-and-feedback",
+    "sourceDate": null,
+    "evidence": "those delivering modules will clarify if and how AI can be used"
+  },
+  {
+    "institution": "qub",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מסמך ההנחיות הכלל-אוניברסיטאי לשנת 2025-26 (לא ייחודי למשפטים) קובע שתקנות העבירות האקדמיות עודכנו כך שיכללו נהלים לחשד לשימוש בלתי הולם ב-AI בהערכה. הסטודנטים נדרשים לאשר את הדרישות בטופס הצהרת יושרה, וכל שימוש בלתי מקובל ב-AI ייחשב עבירה אקדמית. השימוש בכלי זיהוי טקסט של AI אינו מומלץ.",
+    "sourceTitle": "QUB Guidance on the use of AI in Assessment – 2025-26",
+    "sourceUrl": "https://blogs.qub.ac.uk/wp-content/uploads/sites/7/2024/02/QUB-Guidance-on-the-use-of-AI-in-Assessment.pdf",
+    "sourceDate": null,
+    "evidence": "any unacceptable use of AI will be considered academic misconduct"
+  },
+  {
+    "institution": "soas",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מדריך כלל-אוניברסיטאי לסטודנטים משנת 2023 (לא ייחודי למשפטים): מותר להיעזר ב-generative AI ככלי תומך למידה, למשל לסיעור מוחות, להבנת טקסט קשה או כנקודת פתיחה לשאלת חיבור. אסור להשתמש בו כדי לייצר מטלות כגון חיבורים או להגיש תשובה שנוצרה ישירות ב-AI; הדבר נחשב לפלגיאט.",
+    "sourceTitle": "Recommendations for students on use of Generative AI (e.g., Open AI's 'Chat GPT')",
+    "sourceUrl": "https://www.soas.ac.uk/sites/default/files/2023-07/ChatGPT%20and%20generative%20AI%20%E2%80%93%20a%20guide%20for%20students.pdf",
+    "sourceDate": null,
+    "evidence": "they must not use generative AI tools to generate assignments e.g. essays"
+  },
+  {
+    "institution": "soas",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "נוהל העבירות האקדמיות של SOAS (כלל-אוניברסיטאי, בתוקף מ-1.9.2026) מונה שימוש בלתי מורשה ב-generative AI (ChatGPT ודומיו) כעבירה, כאשר השימוש בהערכה מסכמת הוא במידה שהעבודה אינה יכולה להיחשב כעבודת הסטודנט. החריג הוא שימוש שאושר מראש על ידי האוניברסיטה לאותה מטלה. סעיף 2.8 מפרט סימנים מחשידים ואת הליך הבירור.",
+    "sourceTitle": "Academic Misconduct Procedure (REG-183, Version 10)",
+    "sourceUrl": "https://www.soas.ac.uk/sites/default/files/2026-08/REG-183-10%20Academic%20Misconduct%20Procedure%202026%202027.pdf",
+    "sourceDate": "2026-09-01",
+    "evidence": "Unauthorised use of generative AI software/technology/tools"
+  },
+  {
+    "institution": "birmingham",
+    "sector": "faculty",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "מדיניות כלל-אוניברסיטאית (לא ייחודית למשפטים; פורסמה ביולי 2023 ועודכנה בינואר 2025): אלא אם נאמר במפורש אחרת, על הסטודנטים להניח שהשימוש ב-generative AI במטלה או בהערכה אינו מותר. כאשר השימוש מותר, יש לפרט כיצד נעשה שימוש בכלים. אין להעלות עבודות סטודנטים לתוכנות זיהוי AI.",
+    "sourceTitle": "Generative Artificial Intelligence and its role within teaching, learning and assessment",
+    "sourceUrl": "https://www.birmingham.ac.uk/libraries/education-excellence/gai",
+    "sourceDate": null,
+    "evidence": "the use of generative AI within an assessment or assignment is not permitted"
+  },
+  {
+    "institution": "birmingham",
+    "sector": "papers",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית לבתי הספר בנוגע לדיסרטציות לתואר שני מוסמך (PGT): אין להגיש בדיסרטציה תוכן שנוצר ב-generative AI אלא אם ה-School התיר זאת במפורש. מותר סיוע בהגהה בלבד (איות, דקדוק, עיצוב), בכפוף להודעה למנחה ולהצהרה בעבודה. אסור להשתמש ב-AI לשינוי רעיונות או טיעונים, לתרגום או לקיצור הטקסט.",
+    "sourceTitle": "Guidance for Academic Schools Relating to PGT Dissertations and the use of Generative Artificial Intelligence Tools",
+    "sourceUrl": "https://www.birmingham.ac.uk/libraries/education-excellence/gai/guidance-pgt-dissertations",
+    "sourceDate": null,
+    "evidence": "unless their use has been specifically permitted by the School"
+  },
+  {
+    "institution": "birmingham",
+    "sector": "admissions",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מדיניות הקבלה של האוניברסיטה (לא ייחודית למשפטים): האוניברסיטה שומרת לעצמה את הזכות לבדוק כל חלק בבקשה לאיתור תוכן שנוצר ב-AI. בקשה שנכתבה כולה או ברובה ב-AI עלולה להיבדק כחשד להונאה, וההחלטה אם להמשיך לדון בה נתונה לשיקול דעת משרד הקבלה.",
+    "sourceTitle": "Can I use AI to write my application?",
+    "sourceUrl": "https://admissions.bham.ac.uk/knowledgebase/article/KA-01440/en-us",
+    "sourceDate": null,
+    "evidence": "reserves the right to check any part of an application for AI generated content"
+  },
+  {
+    "institution": "birmingham",
+    "sector": "integrity",
+    "stance": "prohibited",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית לסטודנטים (לא ייחודית למשפטים): אין להשתמש בתוצר של generative AI בשום הערכה אלא אם הדבר הותר במפורש, והגשת עבודה שנוצרה על ידי מישהו או משהו אחר כאילו הייתה שלך מפרה את Code of Practice on Academic Integrity. מותר להשתמש בכלים כעזר למידה אישי, אך לא לשכתוב או לשיפור טיעונים, הסברים או רעיונות.",
+    "sourceTitle": "Student and PGR guidance on using GenAI tools ethically for work",
+    "sourceUrl": "https://intranet.birmingham.ac.uk/student/libraries/asc/student-guidance-gai.aspx",
+    "sourceDate": null,
+    "evidence": "created by someone or something else, as if it was your own"
+  },
+  {
+    "institution": "birmingham",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "university",
+    "summary": "ברמת האוניברסיטה (לא ייחודי למשפטים): לסגל ולסטודנטים יש גישה לפלטפורמה מאובטחת לשימוש בכלי GenAI בשם Birmingham AI (bAI). מסגרת האוניברסיטה מתירה שימוש בכלים אלה כעזר למידה אישי ובמחקר, בנפרד מהכללים החלים על מטלות הערכה.",
+    "sourceTitle": "Student and PGR guidance on using GenAI tools ethically for work",
+    "sourceUrl": "https://intranet.birmingham.ac.uk/student/libraries/asc/student-guidance-gai.aspx",
+    "sourceDate": null,
+    "evidence": "University staff and students have access to a secure platform for using GenAI tools."
+  },
+  {
+    "institution": "liverpool",
+    "sector": "faculty",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "הנחיה כלל-אוניברסיטאית לשנת 2025/26 (אוגוסט 2025; לא ייחודית למשפטים): האוניברסיטה מעודדת שילוב אחראי, אתי ושקוף של GenAI, ככלי שמשפר את העבודה ולא מחליף אותה. יש לציין תוכן שנוצר ב-AI ולצטט אותו לפי הצורך; אסור להציג עבודה או חלקים ממנה שנוצרו ב-AI כעבודה עצמית. על הסטודנטים לבדוק את ה-assessment brief ואת ה-module handbook לגבי כל מטלה; Appendix L של Code of Practice on Assessment גובר על ההנחיה.",
+    "sourceTitle": "University Guidance on the use of Generative Artificial Intelligence (GenAI) in learning, teaching, and assessment – Academic Year 2025/2026",
+    "sourceUrl": "https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/digital-education/generative-ai-teach-learn-assess/guidance-on-the-use-of-gen-ai-learn-teach-assess.pdf",
+    "sourceDate": null,
+    "evidence": "Generative AI should be used to enhance practice, not to replace it."
+  },
+  {
+    "institution": "liverpool",
+    "sector": "integrity",
+    "stance": "conditional",
+    "scope": "university",
+    "summary": "מדיניות היושרה האקדמית של האוניברסיטה (Appendix L, 2026-27; לא ייחודית למשפטים) מגדירה כהתנהגות לא ישרה הגשת מטלות או חלקים מהן שנוצרו או הושלמו ב-Generative AI בניגוד להנחיות. כל assignment brief אמור לציין אם השימוש תואם את העמדה הכללית של האוניברסיטה או לקבוע דרישות ייחודיות. שימוש אסור שצוין בעבודה נחשב 'מוצהר אך בלתי מקובל', והפניה לקויה לתוכן AI מותר נחשבת פרקטיקה אקדמית לקויה.",
+    "sourceTitle": "Code of Practice on Assessment – Appendix L: Academic Integrity Policy 2026-27",
+    "sourceUrl": "https://www.liverpool.ac.uk/media/livacuk/tqsd/code-of-practice-on-assessment/appendix_L_cop_assess.pdf",
+    "sourceDate": null,
+    "evidence": "generated or completed by Generative Artificial Intelligence (GAI) software contrary to the guidance"
+  },
+  {
+    "institution": "liverpool",
+    "sector": "training",
+    "stance": "permitted",
+    "scope": "law",
+    "summary": "במסגרת ה-LLB מוצע המודול LAW383, Artificial Intelligence and the Future of Legal Services. המודול בוחן עד כמה AI יכול לפתור בעיות משפטיות בהקשרים ממשיים ואילו מגבלות יש להטיל על השימוש בו. הסטודנטים לומדים מהו AI, בונים אב-טיפוס של כלי AI בפרויקט קבוצתי וכותבים חיבור אישי.",
+    "sourceTitle": "Artificial Intelligence and the Future of Legal Services (LAW383) – Law LLB (Hons)",
+    "sourceUrl": "https://www.liverpool.ac.uk/courses/law-llb-hons/modules/law383",
+    "sourceDate": null,
+    "evidence": "how far AI can resolve legal problems in real life justice contexts"
+  }
+]
